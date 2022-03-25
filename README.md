@@ -5,7 +5,7 @@
 <body>
 <style>
 body {
-  background-image:url('grey.jpg');
+  background-image:url('gray.jpg');
   background-repeat: no-repeat; 
   background-attachment: fixed;
   background-size: cover;
